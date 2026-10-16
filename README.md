@@ -6,9 +6,9 @@ Page de présentation de notre équipe, réalisée en suivant le workflow des é
 
 | Membre | Rôle | GitHub |
 |Noa|Hana|Eva|
-| Noa Belhassen | Lead | [@pseudo1](https://github.com/NoaBelhassen) |
-| Hana Rhanim | Design | [@pseudo2](https://github.com/HanaRhanim) |
-| Eva Pavoa | Documentation | [@pseudo3](https://github.com/EvaPavoa) |
+| Noa Belhassen | Lead | [@NoaBelhassen](https://github.com/NoaBelhassen) |
+| Hana Rhanim | Design | [@hanarh08](https://github.com/hanarh08) |
+| Eva Pavoa | Documentation | [@EvaPavoa](https://github.com/EvaPavoa) |
 
 ## Workflow
 
