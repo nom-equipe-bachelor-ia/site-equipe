@@ -1,0 +1,80 @@
+:root {
+  --fond: #eef1f6;
+  --encre: #14213d;
+  --encre-douce: #4a5670;
+  --carte: #ffffff;
+  --accent: #3a5bff;
+  --repere: #ffc53d;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--fond);
+  color: var(--encre);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  background: var(--encre);
+  color: #fff;
+  padding: 4rem 1.5rem 3rem;
+  border-bottom: 6px solid var(--repere);
+}
+
+header h1 {
+  margin: 0 auto;
+  max-width: 60rem;
+  font-family: Georgia, "Iowan Old Style", serif;
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  line-height: 1.1;
+}
+
+header p {
+  margin: 0.75rem auto 0;
+  max-width: 60rem;
+  color: #c5cde0;
+}
+
+main {
+  max-width: 60rem;
+  margin: 2.5rem auto;
+  padding: 0 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1.5rem;
+}
+
+.membre {
+  background: var(--carte);
+  padding: 1.5rem;
+  border-left: 5px solid var(--accent);
+  border-radius: 0 10px 10px 0;
+}
+
+.membre h2 {
+  margin: 0 0 0.75rem;
+  font-family: Georgia, "Iowan Old Style", serif;
+  font-size: 1.4rem;
+}
+
+.membre p { margin: 0.4rem 0; color: var(--encre-douce); }
+
+.membre a {
+  display: inline-block;
+  margin-top: 0.75rem;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.membre a:hover { color: var(--encre); }
+a:focus-visible { outline: 3px solid var(--repere); outline-offset: 3px; }
+
+footer {
+  padding: 2rem 1.5rem;
+  text-align: center;
+  color: var(--encre-douce);
+  font-size: 0.9rem;
+}
