@@ -5,10 +5,10 @@ Page de présentation de notre équipe, réalisée en suivant le workflow des é
 ## Membres
 
 | Membre | Rôle | GitHub |
-|---|---|---|
-| Prénom Nom | Lead | [@pseudo1](https://github.com/pseudo1) |
-| Prénom Nom | ... | [@pseudo2](https://github.com/pseudo2) |
-| Prénom Nom | ... | [@pseudo3](https://github.com/pseudo3) |
+|Noa|Hana|Eva|
+| Prénom Nom | Lead | [@pseudo1](https://github.com/NoaBelhassen) |
+| Prénom Nom | Design | [@pseudo2](https://github.com/HanaRhanim) |
+| Prénom Nom | Document | [@pseudo3](https://github.com/EvaPavoa) |
 
 ## Workflow
 
